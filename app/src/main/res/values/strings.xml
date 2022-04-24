@@ -20,9 +20,9 @@
     <string name="Credit">Credit</string>
     <string name="Fertilizers">Fertilizers Consumption</string>
     <string name="Fertilizer_Production">Fertilizer Production</string>
-    <string name="Reserves">Annotations</string>
-    <string name="GNI">Annotations</string>
-    <string name="Total_Debt">Annotations</string>
+    <string name="Reserves">Reserves</string>
+    <string name="GNI">GNI</string>
+    <string name="Total_Debt">Total_debt</string>
     <string name="GNI_Current">GNI (current US$)</string>
     <string name="annotations">Annotations</string>
     <string name="apply">Apply</string>
